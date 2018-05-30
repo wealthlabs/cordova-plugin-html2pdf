@@ -1,0 +1,12 @@
+{
+  "name": "at.modalog.cordova.plugin.html2pdf",
+  "description": "Html2pdf",
+  "version": "2.0.0",
+  "licence": "MIT",
+  "private": true,
+  "author": "@moderna",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moderna/cordova-plugin-html2pdf.git"
+  },
+}
